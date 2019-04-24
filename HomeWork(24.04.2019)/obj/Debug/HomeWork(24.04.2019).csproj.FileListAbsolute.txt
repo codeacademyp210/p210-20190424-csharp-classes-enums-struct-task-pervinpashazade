@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\bin\Debug\HomeWork(24.04.2019).exe.config
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\bin\Debug\HomeWork(24.04.2019).exe
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\bin\Debug\HomeWork(24.04.2019).pdb
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\obj\Debug\HomeWork(24.04.2019).csprojAssemblyReference.cache
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\obj\Debug\HomeWork(24.04.2019).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\obj\Debug\HomeWork(24.04.2019).exe
+C:\Users\User\Desktop\code academy\2. C#\HomeWorkSolution(24.04.2019)\HomeWork(24.04.2019)\obj\Debug\HomeWork(24.04.2019).pdb
